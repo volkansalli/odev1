@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\bin\Debug\net5.0\soru3.exe
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\bin\Debug\net5.0\soru3.deps.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\bin\Debug\net5.0\soru3.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\bin\Debug\net5.0\soru3.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\bin\Debug\net5.0\soru3.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\bin\Debug\net5.0\ref\soru3.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\bin\Debug\net5.0\soru3.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\ref\soru3.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\odev_1\soru3\obj\Debug\net5.0\soru3.genruntimeconfig.cache
